@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1482869962 source:c:\users\yagiz\desktop\yaðýz projeler\notepadsunum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+
+1482869962 source:c:\users\yagiz\desktop\notepadsunum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+
